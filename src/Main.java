@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String phone = "+ 960-415-75-37";
+        String phone = "1222222227";
         phone = phone.replace("-", "");
         phone = phone.replace(" ", "");
         phone = phone.replace("+", "");
